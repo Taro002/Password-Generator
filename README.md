@@ -1,4 +1,4 @@
-# 🔐 Password Generator (Python + Tkinter)
+# 🔐 Password Generator 
 
 A **secure**, **simple**, and **clean** password generator built with Python and Tkinter.
 
